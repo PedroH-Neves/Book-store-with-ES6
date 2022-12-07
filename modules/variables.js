@@ -1,0 +1,11 @@
+export const submit = document.querySelector('#submit-form');
+export const displayContentContainer = document.querySelector('.display__books');
+export const title = document.querySelector('#title');
+export const author = document.querySelector('#author');
+export const errorMessage = document.querySelector('.error-message-div');
+export const timeAndDate = document.querySelector('.time-and-date');
+export const listBtn = document.querySelector('.btn-list');
+export const addBtn = document.querySelector('.btn-add');
+export const contactBtn = document.querySelector('.btn-contact');
+export const contactInfo = document.querySelector('.contact-info');
+export const form = document.querySelector('.form');
